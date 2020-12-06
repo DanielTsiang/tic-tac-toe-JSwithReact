@@ -4,7 +4,10 @@
 An interactive tic-tac-toe game built using JavaScript with React.
 
 ### Example
+Initial state:<br>
 ![Javascript Tic Tac Toe Game](https://user-images.githubusercontent.com/74436899/101283467-775a5280-37d2-11eb-8803-24997bb3b30c.png "JavaScript Tic Tac Toe Game")
+
+Game ended state:<br>
 ![Game ended](https://user-images.githubusercontent.com/74436899/101283524-d5873580-37d2-11eb-9f4e-067886fbeb10.png "Game ended")
 
 ### Technologies Used
