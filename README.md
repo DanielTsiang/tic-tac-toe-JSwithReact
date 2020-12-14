@@ -31,4 +31,4 @@ Game ended state:<br>
 ### Contribution Guidelines
 If you would like to contribute code, identify bugs, or propose improvements, please fork this repository and submit a pull request with your suggestions. Below are some helpful links to help you get started:
 1. [Project's main repository](https://github.com/DanielTsiang/tic-tac-toe-JSwithReact)
-2. [Project's issue tracker](https://github.com/DanielTsiang/tic-tac-toe-JSwithReact)
+2. [Project's issue tracker](https://github.com/DanielTsiang/tic-tac-toe-JSwithReact/issues)
